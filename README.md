@@ -8,10 +8,11 @@ Python >= 3.5
 
 # Run
 
-  pip install requests
-  python js.py
-  
-  Input your ID and password
-  Wait
+`
+pip install requests
+python js.py
+Input your ID and password
+Wait
+`
   
 # Good luck
